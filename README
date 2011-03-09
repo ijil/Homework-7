@@ -1,0 +1,13 @@
+homework 7 from Dave's Introduction to Computer Science class
+
+These are Python programming exercises using Python 3. 
+
+jill_hw7_playing_cards: picks out random playing cards and says their names
+			user chooses how many cards are picked
+
+jill_hw7_prime_numbers: user assigns a number, and the program makes a list of prime numbers
+			up to that number
+
+jill_hw7_removeDuplicates: user adds numbers to list, program removes duplicates from the list
+
+
